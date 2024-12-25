@@ -44,8 +44,9 @@ The project uses the **MVC Architecture**:
 - Python 3.9 or higher
 - Docker (optional, for deployment)
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://https://github.com/ashrafghulam/Final-Term.git
-   cd apartment-booking-system
+## 🌐 Live Demo
+The application is live and accessible at:  
+**[Apartment Booking System Live Demo](https://ghulam.sdpmlab.org)**
+
+You can click on the **"SWE"** section in the menu to explore its functionality.
+
