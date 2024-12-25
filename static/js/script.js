@@ -1,0 +1,1 @@
+console.log("Apartment Booking System UI Loaded");

@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Header Section */
+header {
+    background: #f4f4f4;
+    padding: 1em 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2em;
+}
+
+.navbar ul {
+    display: flex;
+    list-style: none;
+    gap: 1.5em;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #333;
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+/* Banner Section */
+.banner {
+    text-align: center;
+    background: #eaeaea;
+    padding: 2em;
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+}
+
+/* Properties Section */
+.properties {
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.property-card {
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 200px;
+    background: #fff;
+}
+
+/* Footer Section */
+footer {
+    background: #f4f4f4;
+    text-align: center;
+    padding: 2em;
+}
+
+footer .footer-content {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.footer-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-bottom {
+    background: #333;
+    color: #fff;
+    padding: 1em;
+    margin-top: 1em;
+}
