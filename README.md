@@ -45,7 +45,7 @@ The project uses the **MVC Architecture**:
 - Docker (optional, for deployment)
 
 ## 🌐 Live Demo
-The application is live and accessible at:  
+The application is live and accessible at this:  
 **[Apartment Booking System Live Demo](https://ghulam.sdpmlab.org)**
 
 You can click on the **"SWE"** section in the menu to explore its functionality.
